@@ -1,0 +1,15 @@
+
+?
+java:S2925C"$Remove this use of "Thread.sleep()".(»ãßºøÿÿÿÿ
+:
+java:S2925'"$Remove this use of "Thread.sleep()".(Úõôñ
+?
+java:S2925*"$Remove this use of "Thread.sleep()".(»ãßºøÿÿÿÿ
+§
+java:S3577"‘Rename class "JavaScriptExecutor" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ğä—D
+?
+java:S29252"$Remove this use of "Thread.sleep()".(»ãßºøÿÿÿÿ
+:
+java:S2925"$Remove this use of "Thread.sleep()".(öÍËè
+?
+java:S2925;"$Remove this use of "Thread.sleep()".(»ãßºøÿÿÿÿ
