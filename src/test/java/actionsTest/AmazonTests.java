@@ -1,5 +1,6 @@
 package actionsTest;
 
+import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 import pages.amazon_pages.AmazonLandingPage;

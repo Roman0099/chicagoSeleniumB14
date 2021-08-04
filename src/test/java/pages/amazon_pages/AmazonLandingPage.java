@@ -10,9 +10,12 @@ public class AmazonLandingPage {
         PageFactory.initElements(Driver.getDriver(),this);
 
     }
-    @FindBy(id="nav-link-accountList")
+    //@FindBy(id="nav-link-accountList")
+    @FindBy(xpath = "//span[@class='nav-line-2 ']")
     public WebElement signInLink;
 
+   @FindBy(id = "icp-nav-flyout")
+    public WebElement languageSelectionMenu;
 
 
 }
